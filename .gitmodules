@@ -1,6 +1,7 @@
 [submodule "jquery-mobile"]
-	path = jquery-mobile
+	path = externals/jquery-mobile
 	url = git://github.com/jquery/jquery-mobile.git
 [submodule "jquery"]
-	path = jquery
+	path = externals/jquery
 	url = git://github.com/jquery/jquery.git
+
