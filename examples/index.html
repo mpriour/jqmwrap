@@ -10,48 +10,45 @@
 	<script type="text/javascript" src="../src/core.js"></script>
 
 	<script type="text/javascript">
-		$(document).ready(function(){
+		$(document).ready(function() {
 			jmw.layout({
 				id: 'test',
 				data: {
 					role: 'page',
 					theme: 'd'
 				},
-				children: [
-					{
-						data: {
-							role: 'header'
-						},
-						html: "<h1>Title</h1>"
+				children: [{
+					data: {
+						role: 'header'
 					},
-					{
+					html: "<h1>Title</h1>"
+				}, {
+					data: {
+						role: 'content',
+						theme: 'a'
+					},
+					children: [{
 						data: {
-							role: 'content',
-							theme: 'a'
+							role: 'button',
+							icon: 'gear'
 						},
-						children: [
-							{
-								data: {
-									role: 'button',
-									icon: 'gear'
-								},
-								type: 'button',
-								text: 'Button 1'
-							},
-							{
-								id: 'cb1',
-								tag: 'input',
-								type: 'checkbox',
-								checked: 'checked'
-							},
-							{
-								tag: 'label',
-								'for': 'cb1',
-								html: 'Check Me'
-							}
-						]
-					}
-				]
+						text: 'Button 1'
+					}, {
+						data: {
+							role: 'fieldset'
+						},
+						children: [{
+							id: 'cb1',
+							tag: 'input',
+							type: 'checkbox',
+							checked: 'checked'
+						}, {
+							tag: 'label',
+							'for': 'cb1',
+							html: 'Check Me'
+						}]
+					}]
+				}]
 			});
 		})
 	</script>
