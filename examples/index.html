@@ -14,12 +14,12 @@
 			jmw.layout({
 				id: 'test',
 				data: {
-					role: 'page',
-					theme: 'd'
+					role: 'page'
 				},
 				children: [{
 					data: {
-						role: 'header'
+						role: 'header',
+						theme: 'b'
 					},
 					html: "<h1>Title</h1>"
 				}, {
@@ -30,12 +30,13 @@
 					children: [{
 						data: {
 							role: 'button',
-							icon: 'gear'
+							icon: 'gear',
+							theme: 'e'
 						},
 						text: 'Button 1'
 					}, {
 						data: {
-							role: 'fieldset'
+							role: 'fieldset',
 						},
 						children: [{
 							id: 'cb1',
