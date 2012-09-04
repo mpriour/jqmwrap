@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jqmWrap Example</title>
+	<link rel="stylesheet" type="text/css" href="../libs/jquery.mobile-1.2.0-alpha.1.css">
+
+	<script type="text/javascript" src="../libs/jquery-1.8.1.js"></script>
+	<script type="text/javascript" src="../libs/jquery.mobile-1.2.0-alpha.1.js"></script>
+
+	<script type="text/javascript" src="../src/core.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			jmw.layout({
+				id: 'test',
+				data: {
+					role: 'page',
+					theme: 'd'
+				},
+				children: [
+					{
+						data: {
+							role: 'header'
+						},
+						html: "<h1>Title</h1>"
+					},
+					{
+						data: {
+							role: 'content',
+							theme: 'a'
+						},
+						children: [
+							{
+								data: {
+									role: 'button',
+									icon: 'gear'
+								},
+								type: 'button',
+								text: 'Button 1'
+							},
+							{
+								id: 'cb1',
+								tag: 'input',
+								type: 'checkbox',
+								checked: 'checked'
+							},
+							{
+								tag: 'label',
+								'for': 'cb1',
+								html: 'Check Me'
+							}
+						]
+					}
+				]
+			});
+		})
+	</script>
+
+</head>
+<body>
+
+</body>
+</html>
