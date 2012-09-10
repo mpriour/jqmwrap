@@ -1,9 +1,6 @@
-jmw = window.jmw || {};
-
-jmw = {
-    widgets: null,
-    pages: null,
-    layout: function(el, config) {
+(function(){
+    var jmw = {};
+    jmw.layout = function(el, config) {
         if(el && !config){
             config = el;
             el = $('body');
@@ -21,8 +18,8 @@ jmw = {
             $.mobile.changePage($layout);
         }
         return $layout;
-    },
-    buildWidget: function(role, config) {
+    };
+    jmw.buildWidget = function(role, config) {
         var $el = null;
         if (this.widgetBuilder && this.widgetBuilder['role']) {
             $el = jmw.widgetBuilder['role'](config);
@@ -30,10 +27,16 @@ jmw = {
             $el = jmw.builder.build(config);
         }
         return $el;
-    },
-    builder: {
-        defaultTag: 'div',
-        build: function(elConfig) {
+    };
+    this.jmw = jmw;
+}());
+
+(function(jmw){
+    var builder = function(options){
+        this.defaultTag = 'div';
+        $.extend(this, options);
+    };
+    builder.prototype.build = function(elConfig) {
             var el, data, $el;
             el = document.createElement(elConfig.tag || jmw.builder.defaultTag);
             $el = $(el);
@@ -85,6 +88,7 @@ jmw = {
             });
 
             return $el;
-        }
-    }
-}
+        };
+    jmw.DomBuilder = builder;
+    jmw.builder = new builder();
+}(jmw));
