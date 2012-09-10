@@ -1,0 +1,656 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"def",
+				"defaultTag"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"wi",
+				"widgetBuilder"
+			],
+			[
+				"build",
+				"buildWidget"
+			],
+			[
+				"jqm",
+				"jqmData"
+			],
+			[
+				"jk",
+				"jqmData"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"last",
+				"lastInfo"
+			],
+			[
+				"con",
+				"conflictType"
+			],
+			[
+				"pre",
+				"prevResolution"
+			],
+			[
+				"res",
+				"resolution"
+			],
+			[
+				"conflict",
+				"conflictType"
+			],
+			[
+				"confli",
+				"conflictType"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"r",
+				"range"
+			],
+			[
+				"lay",
+				"layerRange"
+			],
+			[
+				"la",
+				"lastLayer"
+			],
+			[
+				"c",
+				"conflicts"
+			],
+			[
+				"ani",
+				"animationRange"
+			],
+			[
+				"val",
+				"valuesmodified"
+			],
+			[
+				"orig",
+				"origRes"
+			],
+			[
+				"or",
+				"origValues"
+			],
+			[
+				"sna",
+				"snapToList"
+			],
+			[
+				"tim",
+				"timeManager"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "examples/index.html",
+			"settings":
+			{
+				"buffer_size": 1135,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/M/libraries/GeonodeMapstory/src/geonode-client/build.xml",
+			"settings":
+			{
+				"buffer_size": 6969,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"snippet ",
+				"Snippet: html"
+			],
+			[
+				"z",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Project: Add Folder"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/M/libraries/jqmwrap/src/core.js",
+		"/M/libraries/jqmwrap/examples/index.html",
+		"/M/libraries/jqmwrap/src/ElementBuilder.js",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/AMD Module Editor/AMD Module Editor.sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/Tag/Tag Package.sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/User/zen-coding.sublime-settings",
+		"/M/Projects/AT/client.sublime-project",
+		"/M/Projects/SFenforce/app/view/Map.js",
+		"/M/Projects/ncdf-noaa/src/gxp/src/script/widgets/slider/TimeSlider.js",
+		"/M/Projects/SFenforce/externals/openlayers/lib/OpenLayers/Renderer/Marker.js",
+		"/M/Projects/SFenforce/externals/openlayers/lib/OpenLayers/Renderer/SVG.js",
+		"/M/Projects/SFenforce/externals/openlayers/lib/OpenLayers/Renderer/Elements.js",
+		"/M/libraries/oldemo/examples/wmst.html",
+		"/M/Projects/ncdf-noaa/src/openlayers/lib/OpenLayers/Dimension/Model.js",
+		"/M/Projects/ncdf-noaa/src/openlayers/lib/OpenLayers/Control/DimensionManager.js",
+		"/M/Projects/ncdf-noaa/src/openlayers/lib/OpenLayers/Layer.js",
+		"/M/Projects/ncdf-noaa/src/gxp/src/script/widgets/PlaybackToolbar.js",
+		"/M/Projects/ncdf-noaa/src/openlayers/lib/OpenLayers/Map.js",
+		"/M/Projects/SFenforce/app.js",
+		"/M/Projects/SFenforce/index.html",
+		"/M/Projects/ncdf-noaa/src/openlayers/lib/OpenLayers/Layer/Vector.js",
+		"/M/Projects/ncdf-noaa/src/openlayers/lib/OpenLayers/Renderer.js",
+		"/M/Projects/SFenforce/externals/openlayers/lib/OpenLayers/Control/SelectFeature.js",
+		"/M/Projects/ncdf-noaa/src/openlayers/lib/OpenLayers/Handler/Feature.js",
+		"/M/Projects/ncdf-noaa/src/openlayers/lib/OpenLayers/Handler.js",
+		"/M/Downloads/ows (11)",
+		"/M/Projects/SFenforce/app/util/Config.js",
+		"/C/apache2/conf/httpd.conf",
+		"/M/libraries/oldemo/examples/wmts.html",
+		"/M/libraries/oldemo/examples/wmts.js",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/User/Default.sublime-theme",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Default.sublime-theme",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Widget.sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Widgets.stTheme",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/Default/Widget.sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Settings/Session.sublime_session",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences (Windows).sublime-settings",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/Default/Side Bar Mount Point.sublime-menu",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/Default/Widget Context.sublime-menu",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/Default/Side Bar.sublime-menu",
+		"/C/Users/matt/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/M/Projects/ncdf-noaa/p.sublime-project"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setLay",
+			"indexer",
+			"apply(",
+			"determineZ",
+			"zI",
+			"drawn",
+			"zi",
+			"controls",
+			"model",
+			"size",
+			"font."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "examples/index.html",
+					"settings":
+					{
+						"buffer_size": 1135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/M/libraries/GeonodeMapstory/src/geonode-client/build.xml",
+					"settings":
+					{
+						"buffer_size": 6969,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 52,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										39,
+										97
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": true,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"handler.js",
+				"src/openlayers/lib/OpenLayers/Handler.js"
+			],
+			[
+				"feature.js",
+				"src/openlayers/lib/OpenLayers/Handler/Feature.js"
+			],
+			[
+				"selectf",
+				"src/openlayers/lib/OpenLayers/Control/SelectFeature.js"
+			],
+			[
+				"renderer.js",
+				"src/openlayers/lib/OpenLayers/Renderer.js"
+			],
+			[
+				"vector.j",
+				"src/openlayers/lib/OpenLayers/Layer/Vector.js"
+			],
+			[
+				"map.js",
+				"src/openlayers/lib/OpenLayers/Map.js"
+			],
+			[
+				"map.j",
+				"src/openlayers/lib/OpenLayers/Map.js"
+			],
+			[
+				"pla",
+				"src/gxp/src/script/widgets/PlaybackToolbar.js"
+			],
+			[
+				"layer.js",
+				"src/openlayers/lib/OpenLayers/Layer.js"
+			],
+			[
+				"dimen",
+				"src/openlayers/lib/OpenLayers/Control/DimensionManager.js"
+			],
+			[
+				"mode",
+				"src/openlayers/lib/OpenLayers/Dimension/Model.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true
+}
