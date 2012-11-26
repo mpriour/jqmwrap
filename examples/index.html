@@ -1,57 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>jqmWrap Example</title>
-	<link rel="stylesheet" type="text/css" href="../libs/jquery.mobile-1.2.0-alpha.1.css">
-
-	<script type="text/javascript" src="../libs/jquery-1.8.1.js"></script>
-	<script type="text/javascript" src="../libs/jquery.mobile-1.2.0-alpha.1.js"></script>
-
-	<script type="text/javascript" src="../src/core.js"></script>
-
-	<script type="text/javascript">
-		$(document).ready(function() {
-			jmw.layout({
-				id: 'test',
-				role: 'page',
-				cn: [{
-					data: {
-						role: 'header',
-						theme: 'b'
-					},
-					html: "<h1>Title</h1>"
-				}, {
-					data: {
-						role: 'content',
-						theme: 'a'
-					},
-					cn: [{
-						data: {
-							role: 'button',
-							icon: 'gear',
-							theme: 'e'
-						},
-						text: 'Button 1'
-					}, {
-						role: 'fieldset',
-						cn: [{
-							id: 'cb1',
-							tag: 'input',
-							type: 'checkbox',
-							checked: 'checked'
-						}, {
-							tag: 'label',
-							'for': 'cb1',
-							html: 'Check Me'
-						}]
-					}]
-				}]
-			});
-		})
-	</script>
-
+    <title>jqmWrap Examples</title>
 </head>
 <body>
-
+    <h1>Examples List</h1>
+    <ul>
+        <li><a href="simple.html">Simple</a></li>
+        <li><a href="explicit.html">Explicit</a></li>
+    </ul>
 </body>
-</html>
